@@ -65,3 +65,8 @@ source_metadata:
       parent: Trulshik Rinpoche
 created_at: '2022-03-01T05:59:59.961421'
 last_modified_at: '2022-03-01T05:59:59.961424'
+statistics:
+  total_words: 4024
+  total_non_words: 321
+quality:
+  non_words_ratio: 0.08
